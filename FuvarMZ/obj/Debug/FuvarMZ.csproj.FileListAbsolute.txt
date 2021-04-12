@@ -1,0 +1,7 @@
+C:\Users\Felhasználó\source\repos\FuvarMZ\FuvarMZ\bin\Debug\FuvarMZ.exe.config
+C:\Users\Felhasználó\source\repos\FuvarMZ\FuvarMZ\bin\Debug\FuvarMZ.exe
+C:\Users\Felhasználó\source\repos\FuvarMZ\FuvarMZ\bin\Debug\FuvarMZ.pdb
+C:\Users\Felhasználó\source\repos\FuvarMZ\FuvarMZ\obj\Debug\FuvarMZ.csprojAssemblyReference.cache
+C:\Users\Felhasználó\source\repos\FuvarMZ\FuvarMZ\obj\Debug\FuvarMZ.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\FuvarMZ\FuvarMZ\obj\Debug\FuvarMZ.exe
+C:\Users\Felhasználó\source\repos\FuvarMZ\FuvarMZ\obj\Debug\FuvarMZ.pdb
